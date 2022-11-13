@@ -7,6 +7,7 @@
 - :heart_eyes:Specializing in Data Analytics, Data warehouse,ETL Concepts,and Machine Learning. 
 - :hugs:Well-versed in numerous programming languages including C, Java, Mysql Python, and R. 
 - :innocent:Also familiar with Agile, Scrum, and kanban methodologies. 
+- :mortar_board: done with Computer Science and Engineering from KLS Gogte Institute of Technology, Belagavi & Secured CGPA 8.36 (2022). 
 - :sparkling_heart:	interests in Listening songs, creating content and movies 
 
 ## <u>Tech Stack  </u>   
