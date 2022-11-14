@@ -30,7 +30,7 @@
 * Content writer                    
 * Strong decision maker
 * Problem solver
-* Reasercher
+* Researcher
 * Acitve Speaker & Listener
 * Self Learner
 
