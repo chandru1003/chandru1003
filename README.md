@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 # Chandrakanth Kongari
-## Analyst | Content Writer | Positive
 
 ## <u> About me </u>
 - :heart_eyes:Specializing in Data Analytics, Data warehouse,ETL Concepts,and Machine Learning. 
