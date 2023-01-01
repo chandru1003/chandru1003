@@ -44,6 +44,5 @@ Check my blog on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for
 know me better [Chandrakanth](https://portfollio.live/chandrukongari)
     
      
-
-    
+https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={chandru1003}&theme=vue
 
