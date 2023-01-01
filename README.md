@@ -32,7 +32,16 @@
 * Researcher
 * Acitve Speaker & Listener
 * Self Learner
+# GitHub Stats
 
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+    <thead>
+        <tr>
+            <td><img src="https://github-readme-stats.vercel.app/api?username=chandru1003&show_icons=true&locale=en&theme=tokyonight" /></td>
+            <td><img src="https://streak-stats.demolab.com/?user=chandru1003&theme=tokyonight"  /></td>
+        </tr>
+    </thead>
+</table>
 
 ## <u> Social media </u>
 
@@ -44,5 +53,5 @@ Check my blog on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for
 know me better [Chandrakanth](https://portfollio.live/chandrukongari)
     
      
-https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={chandru1003}&theme=vue
+(https://github-readme-stats.vercel.app/api?username={@chandru1003}&theme=blue-green)
 
