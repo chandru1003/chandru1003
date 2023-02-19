@@ -50,6 +50,6 @@
 
 Check my blog on [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@chandrukongari)
 
-know me better [Chandrakanth](https://portfollio.live/chandrukongari)
+know me better [Chandrakanth](https://linktr.ee/chandrakanth_uk)
 
 
