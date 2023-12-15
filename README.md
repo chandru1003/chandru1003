@@ -17,6 +17,10 @@
 ![Microsoft_Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
+## Most Language used
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chandru1003&layout=compact)
+
 
 
 # GitHub Stats
@@ -25,10 +29,11 @@
     <thead>
         <tr>
             <td><img src="https://github-readme-stats.vercel.app/api?username=chandru1003&show_icons=true&locale=en&theme=tokyonight" /></td>
-            <td><img src="https://streak-stats.demolab.com/?user=chandru1003&theme=tokyonight"  /></td>
-        </tr>
+            <td><img src="https://streak-stats.demolab.com/?user=chandru1003&theme=tokyonight"  /> </td>
+        </tr>     
     </thead>
 </table>
+
 
 ## <u> Social media </u>
 
